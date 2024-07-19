@@ -1,1 +1,38 @@
 /* swag css   */
+
+body {
+	background: black;
+}
+
+.container-layout {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.container-layout > img {
+	width: 200px;
+	height:  200px;
+}
+
+
+.container-layout-2 {
+    margin-top: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.container-layout-2 > img {
+	width: 200px;
+	height:  200px;
+}
+
+
+
+
+
+
+
+
